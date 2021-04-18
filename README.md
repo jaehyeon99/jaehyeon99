@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyeon99&count_private=true&theme=cobalt)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaehyeon99&theme=dark)](https://git.io/streak-stats)
+
 
 
  ###  ⌨️ My Technology Stack ⌨️
