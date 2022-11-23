@@ -1,8 +1,5 @@
-<!-- # Hi there 👋
-I am Jaehyeon Park who is interested in Front-end   
-If you want to contact me, Please send me email
+### GitHub stats
 
- -->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyeon99&count_private=true&theme=cobalt)
